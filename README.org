@@ -1,2 +1,7 @@
 * <2022-10-25 Tue>
 This is stuff I found useful and share so you can enjoy it too.
+
+** emacs: insert any character
+M-x insert-char
+then type your approximate name and press TAB for completion.
+It's currently 22 ℃ in my room.
